@@ -2,7 +2,7 @@
 
 ## Author : Aryanto
 
-📧 Email: aryanto.dandan@gmail.com
+📧 Email: aryanto.dandan@gmail.com<br>
 💼 Data Science | Machine Learning | Recommender Systems | Learning-to-Rank  
 
 ---
